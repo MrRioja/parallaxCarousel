@@ -15,16 +15,16 @@ const ITEM_WIDTH = width * 0.76;
 const ITEM_HEIGHT = ITEM_WIDTH * 1.47;
 
 const images = [
-  "https://images.unsplash.com/photo-1562569633-622303bafef5?w=800&q=80",
-  "https://images.unsplash.com/photo-1517957754642-2870518e16f8?w=800&q=80",
-  "https://images.unsplash.com/photo-1511208687438-2c5a5abb810c?w=800&q=80",
-  "https://images.unsplash.com/photo-1546484959-f9a381d1330d?w=800&q=80",
-  "https://images.unsplash.com/photo-1551316679-9c6ae9dec224?w=800&q=80",
-  "https://images.unsplash.com/photo-1503656142023-618e7d1f435a?w=800&q=80",
-  "https://images.unsplash.com/photo-1555096462-c1c5eb4e4d64?w=800&q=80",
-  "https://images.unsplash.com/photo-1548761208-b7896a6ff225?w=800&q=80",
-  "https://images.unsplash.com/photo-1548614606-52b4451f994b?w=800&q=80",
-  "https://images.unsplash.com/photo-1548600916-dc8492f8e845?w=800&q=80",
+  "https://images.pexels.com/photos/674723/pexels-photo-674723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6276194/pexels-photo-6276194.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6276198/pexels-photo-6276198.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6276190/pexels-photo-6276190.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/5272210/pexels-photo-5272210.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/3303614/pexels-photo-3303614.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6113600/pexels-photo-6113600.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6779807/pexels-photo-6779807.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6113661/pexels-photo-6113661.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "https://images.pexels.com/photos/6310610/pexels-photo-6310610.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
 ];
 const data = images.map((image, index) => ({
   key: String(index),

@@ -22,7 +22,7 @@
 
 Projeto desenvolvido para praticar animações com a Animated API dentro do React Native. Feito para fins estudantis e seguindo [esse tutorial](https://www.youtube.com/watch?v=fSuYM86JXFo&pp=ugMICgJwdBABGAE%3D) do YouTube.
 
-## parallaxCarousel
+## Parallax Carousel
 
 O projeto é basicamente uma FlatList horizontal de imagens bem simples. A cereja do bolo e o fator motivador para esse projeto foi praticar animações com a Animated API. Para esse projeto, o efeito escolhido foi adicionar o efeito parallax ao mudar o item visível da nossa FlatList. O resultado é bastante elegante e podemos conferir no GIF abaixo:
 
